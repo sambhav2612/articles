@@ -13,3 +13,4 @@ this repo maintains the (links to) articles and content I wrote recently and in 
   - [Interior designer in Bangalore](https://docs.google.com/document/d/1moYRla79RKHT3MhyX-SOzhTS_XAe1wRFvzVdWUvddqk/edit?usp=sharing)
   - [Code Camps/Programming 101](https://docs.google.com/document/d/1n_VtgkqS6mZLssB69HOKfoftsCx3Ou4VNjwLAmzeuac/edit?usp=sharing)
   - [My take on Gun Voilence and implementation of second amedment (specific to guns) in India](https://docs.google.com/document/d/1uCWoHJ7Q2QX3f7eyrgfhN3n3NcdcLJ0xO4fsgEwDjm0/edit?usp=sharing)
+  - [Forum Link Building](https://docs.google.com/document/d/1Fb6g5vK4iNC2tJoZn594LKHDpfffNrC5YeUoXbNerbE/edit?usp=sharing)
