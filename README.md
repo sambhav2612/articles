@@ -16,4 +16,4 @@ this repo maintains the (links to) articles and content I wrote recently and in 
   - [Forum Link Building](https://docs.google.com/document/d/1Fb6g5vK4iNC2tJoZn594LKHDpfffNrC5YeUoXbNerbE/edit?usp=sharing)
   - [Looking at the future of CS-related Jobs in 2020](https://docs.google.com/document/d/1a-9GnmSPH2NlO7PcqJILK76gyuRrXJyxKzpneHtaddw/edit?usp=sharing)
 - Random Thoughts:
-  - **Preventing DDoS Attacks with P2P Networks:** Given that in peer-to-peer networks every node on the network contributes to the net computational power of the entire network which makes an sttack targted at a centralized entity non-effective whatsoever.
+  - **Preventing DDoS Attacks with P2P Networks:** Given that in peer-to-peer networks every node on the network contributes to the net computational power of the entire network which makes an attack like DDoS targeted at a centralized entity non-effective whatsoever instead of the other scenario where the security of the entire network can be compromised if the central entity is successfully attacked and compromised.
