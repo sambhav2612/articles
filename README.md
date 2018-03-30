@@ -4,7 +4,7 @@ this repo maintains the (links to) articles and content I wrote recently and in 
 - [Sopo Blog](http://sopo.io/blog)
 - [DroidHolic](http://droidholic.com/author/sambhavj)
 - [Career Growth](http://crrgrowth.com/author/sambhav/)
-- Skillovate
+- [Skillovate](https://www.skillovate.com/news-updates/author/Words-by-Sambhav-Jain)
   - [Is Technology Bad for the Youth?](https://docs.google.com/document/d/1RFoIwPYuyKqqIDYfGAV7cnGjxQHUWg5S3NtNlB3qJ6U/edit?usp=sharing)
   - [Importance of Digital Literacy in India](https://docs.google.com/document/d/1MW9bje3CtPLBVxofL833TeKQtqtUeKz6jwbrCielEUc/edit?usp=sharing)
   - [Code Camps/Programming 101](https://docs.google.com/document/d/1n_VtgkqS6mZLssB69HOKfoftsCx3Ou4VNjwLAmzeuac/edit?usp=sharing)
