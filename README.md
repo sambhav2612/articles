@@ -14,4 +14,6 @@ this repo maintains the (links to) articles and content I wrote recently and in 
   - [My take on Gun Voilence and implementation of second amedment (specific to guns) in India](https://docs.google.com/document/d/1uCWoHJ7Q2QX3f7eyrgfhN3n3NcdcLJ0xO4fsgEwDjm0/edit?usp=sharing)
   - [Forum Link Building](https://docs.google.com/document/d/1Fb6g5vK4iNC2tJoZn594LKHDpfffNrC5YeUoXbNerbE/edit?usp=sharing)
 - Random Thoughts:
+  - [Setting up a DAO Contract for Meetup Groups](https://rinkeby.kauri.io/article/4c6663db6812410e876b8c12c00dc400)
   - **Preventing DDoS Attacks with P2P Networks:** Given that in peer-to-peer networks every node on the network contributes to the net computational power of the entire network which makes an attack like DDoS targeted at a centralized entity non-effective whatsoever instead of the other scenario where the security of the entire network can be compromised if the central entity is successfully attacked and compromised.
+  
